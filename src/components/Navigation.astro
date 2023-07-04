@@ -1,6 +1,8 @@
 ---
 import '../styles/nav.css'
-const sitePrefix = '/astro-blog-tutorial'
+import config from '../../astro.config.mjs'
+
+const sitePrefix = config.base;
 ---
 <div class="nav-links">
   <a href={`${sitePrefix}/`}>Home</a>
