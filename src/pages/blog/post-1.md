@@ -22,4 +22,8 @@ Welcome to my _new blog_ about learning Astro! Here, I will share my learning jo
 
 ## What's next
 
+<div style="border: 10px solid red;">
+hello
+</div>
+
 I will finish the Astro tutorial, and then keep adding more posts. Watch this space for more to come.
